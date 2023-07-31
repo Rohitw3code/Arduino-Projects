@@ -1,6 +1,5 @@
 
-const int num_led = 3l;
-const int pinLeds[num_led] = {1,4,7};
+const int pinLeds[3] = {1,4,7};
 
 void setup() {
   // put your setup code here, to run once:
